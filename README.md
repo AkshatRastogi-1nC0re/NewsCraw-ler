@@ -1,4 +1,4 @@
-# NewsCraw-ler
+# NewsCrawler
 
 ![Image](https://firebasestorage.googleapis.com/v0/b/hackathon-buhack.appspot.com/o/Untitled%20design%20(14).png?alt=media&token=32f46046-c883-4eaa-ad45-d83cb67fe447)
 
